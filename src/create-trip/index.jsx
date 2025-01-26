@@ -15,6 +15,7 @@ function CreateTrip() {
             What is destination of choice?
           </h2>
           <GooglePlacesAutocomplete apikey="" />
+          /*38:27 */
         </div>
       </div>
     </div>
